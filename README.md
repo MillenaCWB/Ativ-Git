@@ -158,6 +158,87 @@ index.html
  
     <script src="scripts.js"></script>
 </body>
+
+
+
+
+
+style.css
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    padding: 0;
+    background-color: #ffffff;
+    color: #000000;
+
+
+
+
+
+    body {
+        background-image: "Url"('C:\Users\User\Desktop\Git ativ\imagens\lixo-eletrônico.webp');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: 'Roboto', sans-serif;
+        color: #333;
+    }
+
+
+
+
+}
+html{
+    scroll-behavior: smooth;
+}
+header {
+    background-color: #93769e;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    
+      }
+      
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
 </html>
 
 
